@@ -24,7 +24,7 @@
     <string role="key" value="_storageName"></string>
     <string value="istockphoto-820850710-1024x1024.jpg"></string>
     <string role="key" value="_userName"></string>
-    <string value="c:\\users\\usuario\\appdata\\local\\temp\\tmpiachm3\\istockphoto-820850710-1024x1024.jpg"></string>
+    <string value="c:\\users\\usuario\\appdata\\local\\temp\\tmp0i7whq\\istockphoto-820850710-1024x1024.jpg"></string>
     <string role="key" value="checksum"></string>
     <string value="cac0e08573d859a2496c45a9caac4623"></string>
     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -194,7 +194,7 @@
            <string role="key" value="anchors_linked_from_fields"></string>
            <dictionary></dictionary>
            <string role="key" value="content_w_resourcePaths"></string>
-           <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;A través de esta situación de Aprendizaje se va a poner a los alumnos para que elaboren una guía formativa para ayudar a sus compañeros de primer curso y a ellos mismos para la elaboración de una guía u hoja de trabajo para la búsqueda de empleo en un sector como es el marítimo-pesquero.&lt;/p&gt;
+           <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;A través de esta situación de Aprendizaje se va a poner a los alumnos para que elaboren una guía formativa mediante una &lt;strong&gt;infografía &lt;/strong&gt;además de un&lt;strong&gt; vídeo de consejos&lt;/strong&gt; para afrontar una entrevista de trabajo con éxito para ayudar a sus compañeros de primer curso y a ellos mismos para la elaboración de una guía u hoja de trabajo para la búsqueda de empleo en un sector como es el marítimo-pesquero.&lt;/p&gt;
 &lt;p&gt;Está dirigido a alumnado del primer curso del Ciclo Formativo de Grado Medio tanto de&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Mantenimiento y Control de la Maquinaria de Buques y Embarcaciones como el de&lt;/li&gt;
@@ -202,7 +202,8 @@
 &lt;/ul&gt;
 &lt;p&gt;Ambos ciclos impartidos  en el CIFP DEL MAR de Gijón. &lt;/p&gt;
 &lt;p&gt;Se impartirá durante 8 sesiones lectivas, lo que conforman un total de 2 semanas completas en el módulo 1709 &quot;Itinerario Personal para la Empleabilidad I&quot;&lt;/p&gt;
-&lt;p&gt;Se realizará de forma individual, por parejas y por grupos reducidos en función de las actividades planteadas y del Feed-Back continuo.&lt;/p&gt;&lt;/div&gt;"></unicode>
+&lt;p&gt;Se realizará de forma individual, por parejas y por grupos reducidos en función de las actividades planteadas y del Feed-Back continuo.&lt;/p&gt;
+&lt;p&gt;Las herramientas con las que se trabajará con el alumnado para la elaboración de las actividades serán Canva e InSHot para la realización del vídeo.&lt;/p&gt;&lt;/div&gt;"></unicode>
            <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
            <int value="4"></int>
            <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -514,16 +515,55 @@
               <string role="key" value="anchors_linked_from_fields"></string>
               <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
-              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Guía de empleo para el sector marítimo‑pesquero&lt;br /&gt;Esta situación de aprendizaje forma parte del módulo 1709 Itinerario Personal para la Empleabilidad I y tiene como finalidad ayudarte a mejorar tus posibilidades de inserción laboral en el sector marítimo‑pesquero, desarrollando competencias personales, sociales y digitales relacionadas con la empleabilidad.&lt;/p&gt;
+              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;strong&gt;Guía de empleo para el sector marítimo‑pesquero&lt;/strong&gt;&lt;br /&gt;Esta situación de aprendizaje forma parte del módulo 1709 Itinerario Personal para la Empleabilidad I y tiene como finalidad ayudarte a mejorar tus posibilidades de inserción laboral en el sector marítimo‑pesquero, desarrollando competencias personales, sociales y digitales relacionadas con la empleabilidad.&lt;/p&gt;
 &lt;p&gt;A lo largo de esta experiencia aprenderás a conocerte mejor como futuro profesional, a identificar tus puntos fuertes y a utilizar herramientas actuales de búsqueda de empleo adaptadas a las exigencias reales del mercado laboral del sector del mar.&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;🎯 Qué vas a ser capaz de hacer al finalizar esta situación&lt;br /&gt;Al finalizar esta situación de aprendizaje, serás capaz de:&lt;/p&gt;
-&lt;p&gt;Planificar y poner en marcha estrategias de búsqueda de empleo, adaptadas a distintos procesos selectivos del sector marítimo‑pesquero.&lt;br /&gt;Mejorar tu empleabilidad, aplicando estrategias relacionadas con tus competencias personales, sociales y emocionales.&lt;br /&gt;Analizar tus intereses, preferencias y metas profesionales, tomando decisiones responsables sobre tu futuro laboral.&lt;br /&gt;Utilizar herramientas digitales y fuentes de información fiables para crear un entorno personal de aprendizaje orientado al empleo.&lt;br /&gt;&lt;br /&gt;✅ Cómo se valorará tu aprendizaje&lt;br /&gt;Para comprobar tu progreso, se tendrá en cuenta si eres capaz de:&lt;/p&gt;
-&lt;p&gt;Identificar tus competencias personales y sociales con valor para el empleo.&lt;br /&gt;Definir tus intereses profesionales, preferencias y objetivos laborales dentro de tu proyecto profesional.&lt;br /&gt;Analizar tus expectativas de futuro profesional, relacionándolas con tus capacidades, habilidades y destrezas.&lt;br /&gt;Conocer y utilizar herramientas digitales, fuentes de información y redes profesionales para mejorar tu empleabilidad.&lt;br /&gt;Configurar un entorno personal de aprendizaje que te ayude a seguir formándote a lo largo de la vida.&lt;br /&gt;&lt;br /&gt;📚 Qué contenidos vas a trabajar&lt;br /&gt;Durante esta situación de aprendizaje trabajarás, entre otros, los siguientes contenidos:&lt;/p&gt;
-&lt;p&gt;El concepto de empleabilidad en el mercado laboral actual.&lt;br /&gt;Sistemas de selección de personal y ATS (Applicant Tracking Systems).&lt;br /&gt;Elaboración del curriculum vitae y la carta de presentación.&lt;br /&gt;Fuentes de información para la búsqueda de empleo en el sector marítimo‑pesquero.&lt;br /&gt;Identidad digital y huella profesional en internet.&lt;br /&gt;&lt;br /&gt;💼 Competencias que vas a desarrollar&lt;br /&gt;Esta situación de aprendizaje contribuye al desarrollo de competencias profesionales, personales y sociales, como:&lt;/p&gt;
-&lt;p&gt;Adaptarte a los cambios laborales y tecnológicos, actualizando tus conocimientos y utilizando recursos de aprendizaje permanente y tecnologías digitales.&lt;br /&gt;Comunicarte de forma eficaz, respetando a las personas con las que interactúas en el ámbito profesional y laboral.&lt;br /&gt;&lt;br /&gt;🎓 Relación con los objetivos del ciclo formativo&lt;br /&gt;A través de esta situación de aprendizaje contribuirás a:&lt;/p&gt;
-&lt;p&gt;Conocer tus derechos y deberes como trabajador y ciudadano, participando de forma activa y responsable en la sociedad.&lt;br /&gt;Utilizar de forma autónoma los recursos digitales y de aprendizaje permanente, mejorando tus oportunidades profesionales y tu desarrollo personal.&lt;br /&gt;&lt;br /&gt;🛠️ Cómo vamos a trabajar&lt;br /&gt;La metodología será activa y práctica. A lo largo de la SdA realizarás:&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;🎯 &lt;strong&gt;Objetivos&lt;/strong&gt;&lt;br /&gt;Al finalizar esta situación de aprendizaje, serás capaz de:&lt;/p&gt;
+&lt;p&gt;Planificar y poner en marcha estrategias de búsqueda de empleo, adaptadas a distintos procesos selectivos del sector marítimo‑pesquero.&lt;br /&gt;Mejorar tu empleabilidad, aplicando estrategias relacionadas con tus competencias personales, sociales y emocionales.&lt;br /&gt;Analizar tus intereses, preferencias y metas profesionales, tomando decisiones responsables sobre tu futuro laboral.&lt;br /&gt;Utilizar herramientas digitales y fuentes de información fiables para crear un entorno personal de aprendizaje orientado al empleo.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;✅ Resultados de Aprendizaje y Criterios de Evaluación&lt;/strong&gt;&lt;br /&gt;Para comprobar tu progreso, se tendrá en cuenta los siguientes Resultados de Aprendizaje. (RA4,RA5)&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;RA4: Analiza y evalúa su potencial profesional y sus intereses para guiarse en el proceso de autoorientación y elabora una hoja de ruta para la inserción profesional en base al análisis de las competencias, intereses y destrezas personales.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Criterios de evaluación:&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Se han evaluado los propios intereses, motivaciones, habilidades y destrezas en el marco de un proceso de autoconocimiento.&lt;/li&gt;
+&lt;li&gt;Se han analizado las cualidades y competencias personales afines a la actividad profesional relacionada con el perfil del título.&lt;/li&gt;
+&lt;li&gt;Se han determinado las competencias personales y sociales con valor para el empleo.&lt;/li&gt;
+&lt;li&gt;Se han formulado objetivos profesionales y se ha determinado metas personales y profesionales para la mejora de la empleabilidad y las condiciones de inserción profesional.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;RA5: Aplica las estrategias para el aprendizaje autónomo reconociendo su valor profesionalizador, diseñando y optimizando su propio entorno de aprendizaje haciendo uso de las tecnologías digitales como herramientas de aprendizaje autónomo, siendo coherente con su identidad digital y sus propios objetivos profesionales planteados en su plan de desarrollo individual.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Criterios de evaluación:
+&lt;ul&gt;
+&lt;li&gt;Se han evaluado los propios intereses, motivaciones, habilidades y destrezas en el marco de un proceso de autoconocimiento.&lt;/li&gt;
+&lt;li&gt;Se han analizado las cualidades y competencias personales afines a la actividad profesional relacionada con el perfil del título.&lt;/li&gt;
+&lt;li&gt;Se han determinado las competencias personales y sociales con valor para el empleo.&lt;/li&gt;
+&lt;li&gt;Se han formulado objetivos profesionales y se ha determinado metas personales y profesionales para la mejora de la empleabilidad y las condiciones de inserción profesional.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;📚 &lt;strong&gt;Contenidos mínimos&lt;/strong&gt;&lt;br /&gt;Durante esta situación de aprendizaje trabajarás, entre otros, los siguientes contenidos:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;El concepto de empleabilidad en el mercado laboral actual.&lt;/li&gt;
+&lt;li&gt;Sistemas de selección de personal y ATS (Applicant Tracking Systems).&lt;/li&gt;
+&lt;li&gt;Elaboración del curriculum vitae y la carta de presentación.&lt;/li&gt;
+&lt;li&gt;Fuentes de información para la búsqueda de empleo en el sector marítimo‑pesquero.&lt;/li&gt;
+&lt;li&gt;Identidad digital y huella profesional en internet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style=&quot;color: #333333; font-size: 1.05em;&quot;&gt;💼 &lt;/span&gt;&lt;strong style=&quot;color: #333333; font-size: 1.05em;&quot;&gt;Competencias que vas a desarrollar&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Esta situación de aprendizaje contribuye al desarrollo de &lt;strong&gt;competencias profesionales, personales y sociales&lt;/strong&gt;, como:&lt;/p&gt;
+&lt;p&gt;Adaptarte a los cambios laborales y tecnológicos, actualizando tus conocimientos y utilizando recursos de aprendizaje permanente y tecnologías digitales.&lt;br /&gt;Comunicarte de forma eficaz, respetando a las personas con las que interactúas en el ámbito profesional y laboral.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;🎓 Relación con los objetivos del ciclo formativo&lt;/strong&gt;&lt;br /&gt;A través de esta situación de aprendizaje contribuirás a:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Conocer tus derechos y deberes como trabajador y ciudadano, participando de forma activa y responsable en la sociedad.&lt;/li&gt;
+&lt;li&gt;Utilizar de forma autónoma los recursos digitales y de aprendizaje permanente, mejorando tus oportunidades profesionales y tu desarrollo personal.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🛠️ &lt;strong&gt;Metodología&lt;/strong&gt;&lt;br /&gt;La metodología será activa y práctica. A lo largo de la SdA realizarás:&lt;/p&gt;
 &lt;p&gt;Casos prácticos relacionados con procesos reales de búsqueda de empleo.&lt;br /&gt;Análisis de vídeos y ejemplos reales del sector.&lt;br /&gt;Actividades basadas en el Aprendizaje Basado en Problemas (ABP), donde deberás tomar decisiones y proponer soluciones.&lt;br /&gt;&lt;br /&gt;📝 Cómo se te va a evaluar&lt;br /&gt;Tu aprendizaje se evaluará utilizando distintos instrumentos, como:&lt;/p&gt;
-&lt;p&gt;Rúbricas de actividades.&lt;br /&gt;Listas de cotejo.&lt;br /&gt;Observación directa del trabajo realizado.&lt;br /&gt;Actividades de autoevaluación, para que reflexiones sobre tu propio aprendizaje.&lt;/p&gt;&lt;/div&gt;"></unicode>
+&lt;ul&gt;
+&lt;li&gt;Rúbricas de actividades.&lt;/li&gt;
+&lt;li&gt;Listas de cotejo.&lt;/li&gt;
+&lt;li&gt;Observación directa del trabajo realizado.&lt;/li&gt;
+&lt;li&gt;Actividades de autoevaluación, para que reflexiones sobre tu propio aprendizaje.&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
               <int value="4"></int>
               <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -1330,7 +1370,7 @@
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="22"></reference>
+  <reference key="10"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
